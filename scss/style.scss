@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+header{
+    background-color: aqua;
+    height: 96px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    nav{
+        
+         ul{
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+        }
+        .Get-Scootin{
+            color: white;
+            border: 1px solid #FCB72B;
+            border-radius: 1px;
+            background-color: #FCB72B;
+            padding: 20px;
+            margin-left: 999px;
+        }
+
+        
+        
+        
+
+    }
+}
